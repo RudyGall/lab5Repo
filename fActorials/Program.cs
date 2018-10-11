@@ -18,7 +18,8 @@ namespace fActorials
 
             while (runP == true)
             {
-                int i, number, factorial;
+                int i, number;
+                long factorial;
                 Console.WriteLine("{0}, Please enter an integer between 1 and 10", firstName);
                 number = int.Parse(Console.ReadLine());
                 factorial = number;
