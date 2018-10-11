@@ -32,12 +32,16 @@ namespace fActorials
 
                 doAgain = Convert.ToChar(Console.ReadLine());
 
-                if (doAgain != 'y' && doAgain != 'Y')
+                if (doAgain == 'n' || doAgain == 'N')
                 {
                     runP = false;
                 }
-                else
+                else if (doAgain == 'y' || doAgain == 'Y')
+                {
                     runP = true;
+                }
+                else
+                    Console.WriteLine("Invalid entry, try again");
             }
         }
     }
