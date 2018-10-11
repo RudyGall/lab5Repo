@@ -1,0 +1,7 @@
+c:\users\max\source\repos\fActorials\fActorials\bin\Debug\fActorials.exe.config
+c:\users\max\source\repos\fActorials\fActorials\bin\Debug\fActorials.exe
+c:\users\max\source\repos\fActorials\fActorials\bin\Debug\fActorials.pdb
+c:\users\max\source\repos\fActorials\fActorials\obj\Debug\fActorials.csprojAssemblyReference.cache
+c:\users\max\source\repos\fActorials\fActorials\obj\Debug\fActorials.csproj.CoreCompileInputs.cache
+c:\users\max\source\repos\fActorials\fActorials\obj\Debug\fActorials.exe
+c:\users\max\source\repos\fActorials\fActorials\obj\Debug\fActorials.pdb
